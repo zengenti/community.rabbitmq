@@ -1,6 +1,6 @@
 # community.rabbitmq Collection
 
-Forked so we can apply a patch.
+**Forked so we can apply a patch.**
 
 <!-- Add CI and code coverage badges here. -->
 <!-- Describe the collection and why a user would want to use it. What does the collection do? -->
